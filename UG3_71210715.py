@@ -9,4 +9,4 @@ for i in kali:
     if i == kata:
         count += 1
 
-print(count)
+print("Banyak kata", kata, "yang terdapat pada kalimat diatas adalah", count)
